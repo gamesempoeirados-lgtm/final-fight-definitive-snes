@@ -1,0 +1,9 @@
+*.sfc
+*.smc
+*.zip
+*.rom
+*.bin
+/roms/
+/assets/extracted/
+/build/
+__pycache__/
